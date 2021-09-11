@@ -1,2 +1,2 @@
 # test
-It is a test of repository
+It is a test of repository for Congiscool's class table.
